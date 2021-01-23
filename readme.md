@@ -14,6 +14,5 @@ goland 2020.3.1
 
 客户端：两个协程，工作流程相同，首先睡眠随机时间（1-3s），然后生成0-2范围内的随机数，之后分别以tcp协议和udp协议向服务器发送数据信息。
 
-###### 运行结果：
-
-<img src="E:\Program\go\Demo\client.png" alt="client" style="zoom:80%;" /><img src="E:\Program\go\Demo\server.png" alt="server" style="zoom:80%;" />
+###### 运行结果
+见文件中的server.png和client.png
